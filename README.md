@@ -1,5 +1,5 @@
-<h1 align="center">Welcome Chads to the new meta <br/>
-🏆 Octobi Wan <a href="https://dexscreener.com/solana/6ymesjffjrffjurthhwdmf4nh7fbq7jf1qx4xxcvmfxs" target=_blank>$Catnobi</a> 🏆
+<h1 align="center">Welcome Chads <br/>
+Octo cat<a href="https://dexscreener.com/solana/6ymesjffjrffjurthhwdmf4nh7fbq7jf1qx4xxcvmfxs" target=_blank>$Catnobi</a> 🏆
 <h3 align="center"> <a href="https://dexscreener.com/solana/6ymesjffjrffjurthhwdmf4nh7fbq7jf1qx4xxcvmfxs" target=_blank><img align="center" src="https://raw.githubusercontent.com/octobiwancoin/octobiwancoin/main/moonshot.png" alt=""></a> </h3>
 <h3 align="center"> <a href="https://dexscreener.com/solana/6ymesjffjrffjurthhwdmf4nh7fbq7jf1qx4xxcvmfxs" target=_blank><img align="center" src="https://raw.githubusercontent.com/octobiwancoin/octobiwancoin/main/dexscr.png" alt=""></a> </h3>
 <h3 align="center"> <a href="https://www.dextools.io/app/en/solana/pair-explorer/8XqPJwAwj8uEwQ8XryTQ2zGk8QKAxQkX4G8wTwahnKpJ?t=1726142531637s" target=_blank><img align="center" src="https://raw.githubusercontent.com/octobiwancoin/octobiwancoin/main/dextools.png" alt=""></a> </h3>
